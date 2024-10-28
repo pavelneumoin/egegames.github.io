@@ -1,0 +1,18 @@
+{
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "questions": [
+      {
+        "question": "Вычислите: \\(2 + 2 = ?\\)",
+        "answer": "4"
+      },
+      {
+        "question": "Вычислите: \\(5 \\times 3 = ?\\)",
+        "answer": "15"
+      },
+      {
+        "question": "Найдите значение: \\(10 - 7 = ?\\)",
+        "answer": "3"
+      }
+    ]
+  }
+  

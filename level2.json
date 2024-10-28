@@ -1,0 +1,18 @@
+{
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "questions": [
+      {
+        "question": "Решите уравнение: \\(x + 5 = 12\\)",
+        "answer": "7"
+      },
+      {
+        "question": "Вычислите: \\(8 \\div 2 = ?\\)",
+        "answer": "4"
+      },
+      {
+        "question": "Найдите корень уравнения: \\(3x = 9\\)",
+        "answer": "3"
+      }
+    ]
+  }
+  

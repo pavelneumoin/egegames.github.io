@@ -1,0 +1,18 @@
+{
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "questions": [
+      {
+        "question": "Вычислите: \\(6^2 = ?\\)",
+        "answer": "36"
+      },
+      {
+        "question": "Найдите значение выражения: \\(\\sqrt{49} = ?\\)",
+        "answer": "7"
+      },
+      {
+        "question": "Решите уравнение: \\(2x - 4 = 10\\)",
+        "answer": "7"
+      }
+    ]
+  }
+  
